@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Database
+autoservice.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Temp files
+tmp/
+
+# IDE
+.idea/
+.vscode/
+*.DS_Store
