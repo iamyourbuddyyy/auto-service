@@ -1,6 +1,9 @@
 # Secrets
 .env
 
+# Claude Code instructions
+CLAUDE.md
+
 # Database
 autoservice.db
 
